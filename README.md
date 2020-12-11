@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a backend software engineer currently about 3/4 of the way through [Turing School of Software and Design](https://turing.io/). 
 
-Turing, a 7-month intensive program that sets itself apart from typical bootcamps by placing an emphasis on Test-Driven Development, rigorous exams on different aspects of professional app-development and cooperative problem-solving, demanding project schedules that require keen self-discipline and motivation, and continuous lectures and open discussions on the ethics of maintaining an open and inclusive mindset and environment conduscive to personal and professional growth.
+Turing is a 7-month intensive program that sets itself apart from typical bootcamps by placing an emphasis on Test-Driven Development, rigorous exams on different aspects of professional app-development and cooperative problem-solving, demanding project schedules that require keen self-discipline and motivation, and continuous lectures and open discussions on the ethics of maintaining an open and inclusive mindset and environment conduscive to personal and professional growth.
 
 My main goal is not only to develop well-built applications but a career path built on continuous growth and perpetual beginner's mindset. My learning is fueled by passion for creation as I find endless satisfaction in refining and refactoring to get as close to perfection as possible. 
 
