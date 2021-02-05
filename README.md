@@ -9,6 +9,8 @@ My most recent project was a rails application, [Viewing Party](https://github.c
 
 Feel free to poke around as I continue to evolve my portfolio and skillset. I am very interested in career opportunities and can be reached by email at philip.defraties@gmail.com or through my [LinkedIn profile](https://www.linkedin.com/feed/).
 
+My CodeWars profile: https://www.codewars.com/users/PhilipDeFraties
+
 <!--
 **PhilipDeFraties/PhilipDeFraties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
