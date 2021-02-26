@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a backend software engineer currently about 3/4 of the way through [Turing School of Software and Design](https://turing.io/). 
+I'm a backend software engineer in the final weeks of the backend-engineering program at [Turing School of Software and Design](https://turing.io/). 
 
 Turing is a 7-month intensive program that sets itself apart from typical bootcamps by placing an emphasis agile workflows, test-driven development, regular coding challenges, demanding team and solo projects requiring deep learning and exploration, and continuous lectures on the importance of maintaining an open and inclusive environment conduscive to personal and professional growth.
 
