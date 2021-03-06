@@ -5,7 +5,7 @@ Turing is a 7-month intensive program that sets itself apart from typical bootca
 
 My main goal is not only to develop not only well-built applications but also a career path built on continuous growth and driven by a persistent beginner's mindset. My learning is fueled by passion for creation as I find endless satisfaction in refining and refactoring. 
 
-One application I am most proud of [Viewing Party](https://github.com/PhilipDeFraties/viewing_party), assigned to myself and my team of 2 others, is a good example of my experience with Ruby on Rails. It recieved a full-score and lovely compliments from our instructor. 
+One application I am proud of, [Viewing Party](https://github.com/PhilipDeFraties/viewing_party), assigned to myself and my team of 2 others, is a good example of my experience with Ruby on Rails. It recieved a full-score and lovely compliments from our instructor. 
 
 I've mostly worked in Ruby on Rails so far but have recently completed a project assignment using Node.js and am currently building a custom application using Python / Flask which should be pushed to production soon. 
 
