@@ -5,11 +5,16 @@ Turing is a 7-month intensive program that sets itself apart from typical bootca
 
 My main goal is not only to develop not only well-built applications but also a career path built on continuous growth and driven by a persistent beginner's mindset. My learning is fueled by passion for creation as I find endless satisfaction in refining and refactoring. 
 
-I'm most familiar with Ruby and its framework, Rails and have built several REST API's as well as consumed external API's and have even built a microservice leveraging Sinatra to do so.One application I am proud of, [Viewing Party](https://github.com/PhilipDeFraties/viewing_party), assigned to myself and my team of 2 others, is a good example of my experience with Ruby on Rails. It recieved a full-score and lovely compliments from our instructor.
+I'm most familiar with Ruby and its framework, Rails, and have built several REST API's as well as consumed external API's and have even built a microservice leveraging Sinatra to do so. One application I am proud of, [Viewing Party](https://github.com/PhilipDeFraties/viewing_party), assigned to myself and my team of 2 others, is a good example of my experience with Ruby on Rails. It recieved a full-score and lovely compliments from our instructor.
+
+I am currently developing a Rails Graphql API to provide backend support to an idea for a custom application I'd long dreamt of building, [GetBelayed](https://github.com/PhilipDeFraties/GetBelayed)
 
 Feel free to poke around as I continue to evolve my portfolio and skillset. I am open to career opportunities and can be reached by email at philip.defraties@gmail.com or through my [LinkedIn profile](https://www.linkedin.com/feed/).
 
 My CodeWars profile: https://www.codewars.com/users/PhilipDeFraties
+
+Skills: Ruby, Ruby On Rails, HTML, MiniTest, RSpec, SQL, PostgreSQL, ActiveRecord, REST API development, GraphQL, API consumption, GraphQL, Sinatra, Git, Github, Continuous Integration, TravisCI, Heroku, Postman, Postico
+Some experience: Python, Flask, JavaScript, Node.js
 
 <!--
 **PhilipDeFraties/PhilipDeFraties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
