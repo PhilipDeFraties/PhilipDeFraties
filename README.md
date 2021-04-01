@@ -31,7 +31,7 @@ My CodeWars profile: https://www.codewars.com/users/PhilipDeFraties
 Skills: Ruby, Ruby On Rails, HTML, MiniTest, RSpec, SQL, PostgreSQL, ActiveRecord, REST API development, GraphQL, API consumption, GraphQL, Sinatra, Git, Github, Continuous Integration, TravisCI, Heroku, Postman, Postico
 Some experience: Python, Flask, JavaScript, Node.js
 
-[![Phil's Github stats](https://github-readme-stats.vercel.app/api?username=philipdefraties)](https://github.com/anuraghazra/github-readme-stats)
+![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipdefraties&count_private=true)
 
 
 <!--
