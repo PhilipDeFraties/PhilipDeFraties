@@ -8,6 +8,12 @@ I'm confident working with Rails, Ruby, SQL, JSON, REST API's, Github, Heroku, a
 
 With every team I find myself on I set my intention first thing to be a reliable source of positivity, initiative, and reliability and to be an efficient and considerate communicator. I try to stay active in slack channels, be ready to jump in on pair coding sessions whenever needed, make meaningful commit messages and well-written pull requests, and do thorough code reviews.
 
+A recent pull request I submitted can be seen here: https://github.com/rubyforgood/diaper/pull/2267
+
+Recently I have begun contributing for an open-source application, [diaper](https://staging.humanessentials.app/), an inventory tracking system used by donation centers across the country which was created and maintained by the non-profit group, [RubyForGood](https://rubyforgood.org/).
+
+
+
 My resume can be found here: [Phil's Resume](https://resume.creddle.io/resume/3rxpz3ulpgg)
 
 The projects listed on my resume are here:
