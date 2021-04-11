@@ -32,7 +32,8 @@ The projects listed on my resume are here:
 
 Feel free to poke around as I continue to evolve my portfolio and skillset. I am open to career opportunities and can be reached by email at philip.defraties@gmail.com or through my [LinkedIn profile](https://www.linkedin.com/feed/).
 
-My CodeWars profile: https://www.codewars.com/users/PhilipDeFraties
+My CodeWars [profile](https://www.codewars.com/users/PhilipDeFraties)
+![](https://www.codewars.com/users/PhilipDeFraties/badges/large)
 
 Skills: Ruby, Ruby On Rails, HTML, MiniTest, RSpec, SQL, PostgreSQL, ActiveRecord, REST API development, GraphQL, API consumption, GraphQL, Sinatra, Git, Github, Continuous Integration, TravisCI, Heroku, Postman, Postico
 Some experience: Python, Flask, JavaScript, Node.js
