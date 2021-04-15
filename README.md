@@ -2,7 +2,7 @@
 
 I'm a capable and driven Software Engineer who loves taking on challenges and working on teams. I spent a lot of time as a healthcare professional learning to be a reliable and communicative team-member across multiple teams for over a decade and am now putting those skills to use as a professional developer. 
 
-My main goal is not only to develop not only well-built applications but also a career path built on continuous growth and driven by a persistent beginner's mindset. My learning is fueled by passion for creation as I find endless satisfaction in refining and refactoring. 
+My main goal is to develop not only well-built applications but also a career path built on continuous growth and driven by a persistent beginner's mindset. My learning is fueled by passion for creation as I find endless satisfaction in refining and refactoring. 
 
 I have been contributing to an open-source application, [diaper](https://staging.humanessentials.app/), an inventory tracking system used by donation centers across the country which was created and maintained by the non-profit group, [RubyForGood](https://rubyforgood.org/). A recent pull request I submitted that was merged into production can be seen [here](https://github.com/rubyforgood/diaper/pull/2267)
 
