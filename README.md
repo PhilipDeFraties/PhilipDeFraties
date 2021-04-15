@@ -15,11 +15,6 @@ I'm confident working with Rails, Ruby, SQL, JSON, REST API's, Github, Heroku, a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipdefraties)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-Recently I have begun contributing to an open-source application, [diaper](https://staging.humanessentials.app/), an inventory tracking system used by donation centers across the country which was created and maintained by the non-profit group, [RubyForGood](https://rubyforgood.org/).
-
-
-
 My resume can be found here: [Phil's Resume](https://resume.creddle.io/resume/3rxpz3ulpgg)
 
 The projects listed on my resume are here:
