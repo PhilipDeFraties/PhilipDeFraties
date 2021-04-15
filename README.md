@@ -22,6 +22,9 @@ The projects listed on my resume are here:
 [ViewingParty](https://github.com/Oxalisviolacea/viewing_party)
 * Monolith Rails application showcasing MVC architecture and 3rd party API consumption
 
+[SweaterWeather](https://github.com/PhilipDeFraties/sweater-weather)
+* Rails API conglomerating multiple external API calls to provide data for road-trips.
+
 [RailsEngine](https://github.com/PhilipDeFraties/rails-engine)
 * Rails REST API
 
