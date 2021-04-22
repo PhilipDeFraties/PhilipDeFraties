@@ -19,7 +19,7 @@ My resume can be found here: [Phil's Resume](https://resume.creddle.io/resume/3r
 
 The projects listed on my resume are here:
 
-[ViewingParty](https://github.com/Oxalisviolacea/viewing_party)
+[ViewingParty](https://github.com/PhilipDeFraties/viewing_party)
 * Monolith Rails application showcasing MVC architecture and 3rd party API consumption
 
 [SweaterWeather](https://github.com/PhilipDeFraties/sweater-weather)
