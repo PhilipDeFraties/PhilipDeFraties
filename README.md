@@ -4,7 +4,7 @@ I'm a capable and driven Software Engineer who loves taking on challenges and wo
 
 My main goal is to develop not only well-built applications but also a career path built on continuous growth and driven by a persistent beginner's mindset. My learning is fueled by passion for creation as I find endless satisfaction in refining and refactoring. 
 
-I have been contributing to an open-source application, [diaper](https://staging.humanessentials.app/), an inventory tracking system used by donation centers across the country which was created and maintained by the non-profit group, [RubyForGood](https://rubyforgood.org/). A recent pull request I submitted that was merged into production can be seen [here](https://github.com/rubyforgood/diaper/pull/2267)
+I have been contributing to an open-source application, [human essentials](https://staging.humanessentials.app/), an inventory tracking system used by donation centers across the country which was created and maintained by the non-profit group, [RubyForGood](https://rubyforgood.org/). A recent pull request I submitted that was merged into production can be seen [here](https://github.com/rubyforgood/diaper/pull/2267)
 
 With every team I find myself on I set my intention first thing to be a reliable source of positivity, initiative, and reliability and to be an efficient and considerate communicator. I try to stay active in slack channels, be ready to jump in on pair coding sessions whenever needed, make meaningful commit messages and well-written pull requests, and do consistently thorough code reviews.
 
