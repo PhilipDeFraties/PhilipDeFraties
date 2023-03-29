@@ -5,9 +5,7 @@
 * Turing School of Software and Design graduate
 * Lover of animals and outdoor recreation.
 
-
-
-I have been contributing to an open-source application, [human essentials](https://staging.humanessentials.app/), an inventory tracking system used by donation centers across the country which was created and maintained by the non-profit group, [RubyForGood](https://rubyforgood.org/). A recent pull request I submitted that was merged into production can be seen [here](https://github.com/rubyforgood/diaper/pull/2267)
+https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 
 ![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipdefraties&count_private=true&show_icons=true&theme=radical)
 
@@ -37,6 +35,8 @@ The projects listed on my resume are here:
 
 [Crate](https://github.com/jakeheft/crate)
 * Node.js GraphQL API
+
+Before starting my position as a professional dev I contributed to an open-source application [HumanEssentials](https://staging.humanessentials.app/), owned by the non-profit [RubyForGood](https://rubyforgood.org/)... One of my [pull requests](https://github.com/rubyforgood/diaper/pull/2267)
 
 Feel free to poke around as I continue to evolve my portfolio and skillset. I am open to career opportunities and can be reached by email at philip.defraties@gmail.com or through my [LinkedIn profile](https://www.linkedin.com/feed/).
 
