@@ -1,16 +1,17 @@
 ### Hi there, I'm Phil 👋
 
-I'm a capable and driven Software Engineer who loves taking on challenges and working on teams. I spent a lot of time as a healthcare professional learning to be a reliable and communicative team-member across multiple teams for over a decade and am now putting those skills to use as a professional developer. 
+* Professional software developer
+* 2 years in my current position as a full-stack dev at Silversheet Solutions.
+* Turing School of Software and Design graduate
+* Lover of animals and outdoor recreation.
 
-My main goal is to develop not only well-built applications but also a career path built on continuous growth and driven by a persistent beginner's mindset. My learning is fueled by passion for creation as I find endless satisfaction in refining and refactoring. 
+
 
 I have been contributing to an open-source application, [human essentials](https://staging.humanessentials.app/), an inventory tracking system used by donation centers across the country which was created and maintained by the non-profit group, [RubyForGood](https://rubyforgood.org/). A recent pull request I submitted that was merged into production can be seen [here](https://github.com/rubyforgood/diaper/pull/2267)
 
-With every team I find myself on I set my intention first thing to be a reliable source of positivity, initiative, and reliability and to be an efficient and considerate communicator. I try to stay active in slack channels, be ready to jump in on pair coding sessions whenever needed, make meaningful commit messages and well-written pull requests, and do consistently thorough code reviews.
-
 ![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipdefraties&count_private=true&show_icons=true&theme=radical)
 
-I'm confident working with Rails, Ruby, SQL, JSON, REST API's, Github, Heroku, and CI. I also have some experience with GraphQL, Python / Flask, and JavaScript / Node.js.
+I'm confident working with Rails,  I also have some experience with GraphQL, Python / Flask, and JavaScript / Node.js.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipdefraties)](https://github.com/anuraghazra/github-readme-stats)
 
