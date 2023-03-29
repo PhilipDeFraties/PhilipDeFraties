@@ -39,7 +39,8 @@ Feel free to poke around as I continue to evolve my portfolio and skillset. I am
 
 ---
 
-[My CodeWars profile](https://www.codewars.com/users/PhilipDeFraties)
+Sometimes I do [CodeWars](https://www.codewars.com/users/PhilipDeFraties)
+
 ![](https://www.codewars.com/users/PhilipDeFraties/badges/large)
 
 
