@@ -5,8 +5,8 @@
 * Turing School of Software and Design graduate
 * Lover of animals and outdoor recreation.
 
-https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white 
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+<img src="{https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white}" />
+<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
 
 ![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipdefraties&count_private=true&show_icons=true&theme=radical)
 
