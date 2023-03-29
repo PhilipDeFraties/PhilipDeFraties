@@ -7,7 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipdefraties)](https://github.com/anuraghazra/github-readme-stats)
 
-### Some noteworthy projects:
+---
+
+### Noteworthy Repos:
 
 [ViewingParty](https://github.com/PhilipDeFraties/viewing_party)
 * Monolith Rails application showcasing MVC architecture and 3rd party API consumption
@@ -27,7 +29,11 @@
 [Crate](https://github.com/jakeheft/crate)
 * Node.js GraphQL API
 
-Before starting my position as a professional dev I contributed to an open-source application [HumanEssentials](https://staging.humanessentials.app/), owned by the non-profit [RubyForGood](https://rubyforgood.org/)... One of my [pull requests](https://github.com/rubyforgood/diaper/pull/2267)
+---
+
+Before starting my current role I contributed to an open-source application [HumanEssentials](https://staging.humanessentials.app/), owned by the non-profit [RubyForGood](https://rubyforgood.org/)... One of my [pull requests](https://github.com/rubyforgood/diaper/pull/2267)
+
+---
 
 Feel free to poke around as I continue to evolve my portfolio and skillset. I am open to career opportunities and can be reached by email at philip.defraties@gmail.com or through my [LinkedIn profile](https://www.linkedin.com/feed/).
 
