@@ -26,6 +26,9 @@ The projects listed on my resume are here:
 [SweaterWeather](https://github.com/PhilipDeFraties/sweater-weather)
 * Rails API conglomerating multiple external API calls to provide data for road-trips.
 
+[MyReads](https://github.com/PhilipDeFraties/MyReads)
+* React application
+
 [RailsEngine](https://github.com/PhilipDeFraties/rails-engine)
 * Rails REST API
 
