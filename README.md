@@ -1,23 +1,13 @@
 ### Hi there, I'm Phil 👋
 
 * Professional software developer
-* 2 years in my current position as a full-stack dev at Silversheet Solutions.
+* full-stack dev at Silversheet Solutions (React/Rails)
 * Turing School of Software and Design graduate
-* Lover of animals and outdoor recreation.
-
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-![Phil's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipdefraties&count_private=true&show_icons=true&theme=radical)
-
-I'm confident working with Rails,  I also have some experience with GraphQL, Python / Flask, and JavaScript / Node.js.
+* Lover of animals and outdoor recreation
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipdefraties)](https://github.com/anuraghazra/github-readme-stats)
 
-
-My resume can be found here: [Phil's Resume](https://resume.creddle.io/resume/3rxpz3ulpgg)
-
-The projects listed on my resume are here:
+### Some noteworthy projects:
 
 [ViewingParty](https://github.com/PhilipDeFraties/viewing_party)
 * Monolith Rails application showcasing MVC architecture and 3rd party API consumption
