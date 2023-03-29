@@ -37,9 +37,10 @@ Before starting my current role I contributed to an open-source application [Hum
 
 Feel free to poke around as I continue to evolve my portfolio and skillset. I am open to career opportunities and can be reached by email at philip.defraties@gmail.com or through my [LinkedIn profile](https://www.linkedin.com/feed/).
 
-![](https://www.codewars.com/users/PhilipDeFraties/badges/large)
+---
 
-My CodeWars [profile](https://www.codewars.com/users/PhilipDeFraties)
+[My CodeWars profile](https://www.codewars.com/users/PhilipDeFraties)
+![](https://www.codewars.com/users/PhilipDeFraties/badges/large)
 
 
 <!--
