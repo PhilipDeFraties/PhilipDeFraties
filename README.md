@@ -1,9 +1,10 @@
 ### Hi there, I'm Phil 👋
 
 * Professional software developer
-* full-stack dev at Silversheet Solutions (React/Rails)
+* Full-stack dev at Silversheet Solutions (React/Rails)
 * Turing School of Software and Design graduate
-* Lover of animals and outdoor anything
+* Lover of animals and the outdoors
+* Aspiring Bake-Off contestant
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipdefraties)](https://github.com/anuraghazra/github-readme-stats)
 
