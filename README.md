@@ -32,7 +32,7 @@
 
 ---
 
-Before starting my current role I contributed to an open-source application [HumanEssentials](https://staging.humanessentials.app/), owned by the non-profit [RubyForGood](https://rubyforgood.org/)... One of my [pull requests](https://github.com/rubyforgood/diaper/pull/2267)
+Occasional contributor to the open-source application [HumanEssentials](https://staging.humanessentials.app/), owned by the non-profit [RubyForGood](https://rubyforgood.org/)... One of my [pull requests](https://github.com/rubyforgood/diaper/pull/2267)
 
 ---
 
