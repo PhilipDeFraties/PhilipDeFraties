@@ -1,7 +1,7 @@
 ### Hi there, I'm Phil 👋
 
 * Professional software developer
-* Full-stack dev at Agile Six Applications Inc (Rails/JS)
+* Full-stack Software Engineer II at Agile Six Applications Inc (Rails/JS)
 * Turing School of Software and Design graduate
 * Lover of animals and the outdoors
 * Aspiring Bake-Off contestant
