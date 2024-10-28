@@ -1,4 +1,4 @@
-### Hi there, I'm Phil 👋
+### Hi there, Phil here 👋
 
 * Professional software developer
 * Full-stack Software Engineer II at Agile Six Applications Inc (Rails/JS)
